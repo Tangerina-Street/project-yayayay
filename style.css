@@ -1,0 +1,8 @@
+body{
+    background-color:deepskyblue;
+}
+span{
+    background-color: pink;
+    border-radius: 20px;
+    width: 50%
+}
